@@ -1,1 +1,3 @@
-# slackbot
+# slackbotだよ
+
+python3.6
